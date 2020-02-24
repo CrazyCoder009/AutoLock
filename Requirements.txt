@@ -1,0 +1,4 @@
+opencv-python>=4.1.2.30
+PyAutoGUI>=0.9.48
+PyGetWindow>=0.0.8
+numpy>=1.17.4
