@@ -7,7 +7,7 @@ The script uses OpenCV to detect the user on the computer screen.
 ## Installation:
 1. Download the repo.
 2. navigate to the main directory.
-3. Install the requirements file by typing pip install requirements.txt
+3. Install the requirements file by typing pip install -r requirements.txt
 4. Now run the script using python pyautolock.py
 
 You may have to add the script into the services file to make it run on the background.
